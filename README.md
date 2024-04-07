@@ -13,7 +13,6 @@ This is a basic quiz app built using Flutter and Dart. It consists of three main
 - Dart
 
 ![Quiz App Screenshot](https://github.com/AshifurRedwan/Basic-Quiz-App/blob/master/Thumbnail.jpg)
-![Alt Text](quiz_app)
 
 
 ## Getting Started

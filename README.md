@@ -1,5 +1,6 @@
 ```markdown
 # Basic Quiz App
+![Quiz App](https://github.com/AshifurRedwan/Basic-Quiz-App/assets/71686143/5a5485ae-9fbb-4080-a360-6a81d5ac4477)
 
 This is a basic quiz app built using Flutter and Dart. It consists of three main screens:
 
@@ -12,7 +13,7 @@ This is a basic quiz app built using Flutter and Dart. It consists of three main
 - Flutter
 - Dart
 
-![Quiz App](https://github.com/AshifurRedwan/Basic-Quiz-App/assets/71686143/5a5485ae-9fbb-4080-a360-6a81d5ac4477)
+
 
 
 ## Getting Started
